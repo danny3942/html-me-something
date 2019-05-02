@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(0,255,00);
+}
+header{
+    background-color: rgb(255,0,255);
+}
+footer{
+    position: fixed;
+    left: 500px;
+    bottom: 1px;
+    background-color: rgb(255 , 0 , 255);
+}
+div#firstP {
+position: absolute;
+left: 10px;
+width: 400px;
+height: 120px;
+} 
+div.secondP {
+margin: 10px;
+position: absolute;
+left: 420px;
+width: 400px;
+height: 120px;
+} 
+div#more{
+    position: absolute;
+    left: 10px;
+    width: 400px;
+    height: 120px;
+    top: 600px;
+    bottom: 10px;
+}
+img#mario{
+position: absolute;
+right: 10px;
+width: 400px;
+height: 300px;    
+}
+img#halo{
+position: absolute;
+right: 10px;
+width: 350px;
+height: 500px;
+top: 400px;
+}
